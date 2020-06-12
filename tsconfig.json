@@ -19,6 +19,9 @@
     "noEmit": true,
     "jsx": "react"
   },
+  // "rules": {
+  //   "quotemark": [true, "single", "avoid-escape"]
+  // },
   "include": [
     "src"
   ]
