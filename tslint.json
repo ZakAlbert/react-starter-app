@@ -1,17 +1,6 @@
 {
-  "extends": [
-    "tslint:latest",
-    "tslint-react",
-    //  "tslint-config-standard",
-    "tslint-config-prettier"
-  ],
+  "extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
   "rules": {
-    // "ordered-import": true,
-    // "object-literal-sort-key": false,
-    // "member-ordering": false,
-    // "jsx-no-lambda": false,
-    // "jsx-boolean-value": false,
-    // "no-duplicate-imports": false,
     "no-console": false,
     "no-empty": false
   }
